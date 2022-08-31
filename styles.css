@@ -1,0 +1,91 @@
+/* styles.css */
+
+.logo {
+  height: 100px;
+  width: 100px;
+  display: flex;
+  margin: 50px;
+  padding: 10;
+  border: 10px;
+
+ }
+
+ ul {
+  font-size: 20px;
+  display: flex;
+  list-style: none;
+  gap: 45px;
+  margin: 10px;
+  
+ }
+ .container {
+display: flex;
+background-color: grey;
+justify-content: space-between;
+
+ }
+ .container2 {
+display: flex;
+background-color: grey;
+justify-content: space-evenly;
+
+ }
+ .photo1 {
+  height: 300px;
+  width: 100px;
+  display: flex;
+  justify-content: center;
+  margin: 30px;
+ }
+ .container3 {
+  display: flex;
+  justify-content: center;
+  
+  
+}
+
+.title {
+  font-size: 65px;
+  text-align: center;
+}
+.container4 {
+
+  display: flex;
+  background-color: blueviolet;
+  height: 200px;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+.sign {
+ display: flex;
+ align-self: flex-end;
+ margin: 30px;
+}
+.container5 {
+  display: flex;
+  justify-content: center;
+  
+}
+.sub2 {
+  display: flex;
+  background-color: blue;
+  height: 100px;
+  width: 700px;
+  border: 4px solid black;
+  justify-content: space-evenly;
+  flex-direction: column;
+
+}
+.button {
+  display: flex;
+  width: 70px;
+  align-self: flex-end;
+}
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 50px;
+  background-color: aquamarine;
+}
