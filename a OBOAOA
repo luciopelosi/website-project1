@@ -1,0 +1,23 @@
+[33mcommit 467b02d8aba58bdc162ad1384a93b4b1b4895df3[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Lucio <pelosi.lucio@gmail.com>
+Date:   Thu Sep 1 13:13:56 2022 +0100
+
+    layout in html and css complete, to be pushed on git hub
+
+[33mcommit 4022d320ba849e930774cd7d009881bda4fed6e3[m
+Author: Lucio <pelosi.lucio@gmail.com>
+Date:   Wed Aug 31 17:32:39 2022 +0100
+
+    All layout complete, adjustments to be done on css to make the website pretty
+
+[33mcommit d0adf06e6fe9fc9739a30b412f9cfd9fd67a4140[m
+Author: Lucio <pelosi.lucio@gmail.com>
+Date:   Wed Aug 31 15:11:08 2022 +0100
+
+    first layout rudimental done long way to go
+
+[33mcommit 9e5610208e95fc25ba8363fc4521b22b66aac99d[m
+Author: luciopelosi <109742114+luciopelosi@users.noreply.github.com>
+Date:   Wed Aug 31 12:42:09 2022 +0100
+
+    Initial commit
